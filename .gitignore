@@ -1,0 +1,20 @@
+# Compiled output
+*.class
+out/
+bin/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Course reports and documents
+*.pdf
+*.docx
+
+# OS files
+Thumbs.db
+.DS_Store
